@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "exeUrl": "https://github.com/ireentv/IreenTV-Windows/releases/download/IreenTV-Windows/Ireen-TV-Setup-1.0.0.exe",
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "exeUrl": "https://github.com/ireentv/IreenTV-Windows/releases/download/v1.1.0/Ireen-TV-Setup-1.1.0.exe",
   "releaseNotes": "• নতুন স্পোর্টস ও এইচডি চ্যানেল যোগ করা হয়েছে\n• নতুন প্লেয়ার অপ্টিমাইজেশন",
   "releaseDate": "2026-11-18",
   "forceUpdate": false
